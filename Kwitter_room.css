@@ -1,0 +1,11 @@
+body
+{
+background-image: url(ii.jpg);
+}
+.header
+{
+    color: white;
+    border: 10px;
+    border-color: red;
+    font-size: 100px;
+}
